@@ -13,7 +13,7 @@
 #define BIT_CLEAR(a,b) ((a) &= ~(1ULL<<(b)))
 #define BIT_FLIP(a,b) ((a) ^= (1ULL<<(b)))
 #define BIT_CHECK(a,b) (!!((a) & (1ULL<<(b)))) 
-
+//asdasdasd
 const float BETA = 3950; // should match the Beta Coefficient of the thermistor
 
 
